@@ -2,7 +2,7 @@
 
 This repository tracks the public download links for the assembled genomes, annotations and raw data files of the Publication
 
-**Nanopore-only Assembly of 23 T2T-3D Genomes with Haplotype-phased Topologically Associating Domains**
+**Single-Platform Nanopore Sequencing Enables Diploid Telomere-to-Telomere Genome Assembly and Haplotype-Resolved 3D Chromatin Maps**
 
 Caspar Gross<sup>1, 2,$</sup>, Ramya Pottabulla<sup>1,$</sup>, Fubo Cheng<sup>1</sup>, Sarah Leuchtenberg<sup>1</sup>, Hanna Sophie Hartung<sup>1</sup>, Beate Kristmann<sup>1</sup>, Elena Buena-Atienza<sup>1,3</sup>, Michaela Pogoda<sup>,3</sup>, Nicolas Casadei<sup>1,3</sup>, Stephan Ossowski<sup>1,2\*</sup> and Olaf Riess<sup>1,3\*</sup> 
 
