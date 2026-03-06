@@ -19,7 +19,7 @@ In submission
 
 Download link for 23 samples (release v1.0)
 
-https://cloud.imgag.de/public.php/dav/files/oiHyaeziGCYfD9r/
+https://cloud.imgag.de/s/oiHyaeziGCYfD9r
 
 ## Annotations
 
@@ -27,5 +27,4 @@ In work
 
 ## Raw data
 
-In work
-
+https://cloud.imgag.de/s/6Ak5po3kKzpo7BW
